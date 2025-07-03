@@ -6,6 +6,7 @@ A flexible and reusable **Terraform module** to create and manage an [AWS Lambda
 
 ## Architecture
 
+![Screenshot from 2025-07-04 00-28-16](https://github.com/user-attachments/assets/116e8ac0-4de3-4a88-9caf-98bf367c3a2c)
 
 
 This module allows you to deploy:
