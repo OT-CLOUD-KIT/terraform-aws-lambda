@@ -28,7 +28,7 @@ This module allows you to deploy:
 
 ```hcl
 module "lambda" {
-  source = ""
+  source = "OT-CLOUD-KIT/terraform-aws-lambda.git"
 
   lambda_function = {
     name        = "ot-dev-lambda"
